@@ -471,8 +471,11 @@ university {
     font-style: italic;
   }
   
-  .highlight-paper {
-    background-color: #fff6cc;
+  .highlight-paper td {
+    background-color: #fff6cc !important;
+  }
+  .highlight-paper td:first-child {
     border-left: 5px solid #f2c94c;
   }
+
   
