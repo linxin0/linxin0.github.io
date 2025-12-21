@@ -471,5 +471,8 @@ university {
     font-style: italic;
   }
   
-
+  .highlight-paper {
+    background-color: #fff6cc; /* 柔和学术黄 */
+    border-left: 5px solid #f2c94c;
+  }
   
