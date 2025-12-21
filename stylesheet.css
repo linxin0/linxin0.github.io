@@ -478,4 +478,20 @@ university {
     border-left: 5px solid #f2c94c;
   }
 
+    .legend-note {
+    margin-top: 6px;
+    font-size: 14px;
+    font-weight: normal;
+    color: #555;
+  }
   
+  .legend-box {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background-color: #fff6cc;
+    border-left: 4px solid #f2c94c;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+
